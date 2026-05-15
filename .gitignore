@@ -6,3 +6,7 @@ __pycache__/
 .pytest_cache/
 node_modules/
 .DS_Store
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/.pytest_cache/
